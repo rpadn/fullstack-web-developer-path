@@ -11,9 +11,9 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  |2017|
+|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  |2017-01-01|
 |  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |2018-04-27|
-|  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |https://codepen.io/rpadn/pen/jxGeYv|2018-05-07|
+|  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |https://bit.ly/2IxJQZS|2018-05-07|
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |  |2018-05-12|
