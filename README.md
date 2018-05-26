@@ -18,7 +18,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |  |2018-05-12|
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |2018-05-19|
-|  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
+|  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |https://bit.ly/2IDIgWb|    |
 | | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
